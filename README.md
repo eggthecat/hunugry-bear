@@ -2,7 +2,7 @@
 
 #### _JavaScript, 05.31.2019_
 
-#### By _Marc Davies_
+#### By _Marc Davies & Reese Lee_
 
 ## Description
 
@@ -31,4 +31,4 @@ This application was built in Atom using JavaScript, Node.js 12.3.1, jQuery 3.4.
 
 *This software is licensed under MIT license.*
 
-Copyright (c) 2019 **_Marc Davies_**
+Copyright (c) 2019 **_Marc Davies & Reese Lee_**
